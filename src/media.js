@@ -17,6 +17,10 @@ export const media = [
     src: '/b4410ea5bc7837266e69.jpg'
   },
   {
+    type: 'image',
+    src: '/IMG_20250618_083707.jpg'
+  },
+  {
     type: 'video',
     src: '/Messenger_creation_1F24CF12-9F3B-492C-ACDD-9629324A441D_1.mp4'
   },
@@ -523,10 +527,6 @@ export const media = [
   {
     type: 'image',
     src: '/ffd104a6b77b3c25656a.jpg'
-  },
-  {
-    type: 'image',
-    src: '/IMG_20250618_083707.jpg'
   },
   {
     type: 'image',

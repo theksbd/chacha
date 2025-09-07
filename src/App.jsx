@@ -19,7 +19,12 @@ export default function App() {
             onClick={() => setSelected(item)}
           >
             {item.type === 'image' ? (
-              <img src={item.src} alt='' className='w-full h-64 object-cover' />
+              <img
+                src={item.src}
+                alt=''
+                className='w-full h-64 object-cover'
+                loading='lazy'
+              />
             ) : (
               <video
                 src={item.src}
@@ -47,6 +52,7 @@ export default function App() {
                   src={selected.src}
                   alt=''
                   className='max-h-[80vh] mx-auto rounded-xl object-contain' // constrain height
+                  loading='lazy'
                 />
               ) : (
                 <video

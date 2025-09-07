@@ -2,7 +2,23 @@
 export const media = [
   {
     type: 'image',
-    src: '/01c7363a84e70fb956f6.jpg'
+    src: '/20250614_105638_1.jpg'
+  },
+  {
+    type: 'image',
+    src: '/20250614_140452_1.jpg'
+  },
+  {
+    type: 'image',
+    src: '/c006a31240cfcb9192de.jpg'
+  },
+  {
+    type: 'image',
+    src: '/b4410ea5bc7837266e69.jpg'
+  },
+  {
+    type: 'video',
+    src: '/Messenger_creation_1F24CF12-9F3B-492C-ACDD-9629324A441D_1.mp4'
   },
   {
     type: 'image',
@@ -70,19 +86,15 @@ export const media = [
   },
   {
     type: 'image',
-    src: '/20250614_105638_1.jpg'
-  },
-  {
-    type: 'image',
-    src: '/20250614_140452_1.jpg'
-  },
-  {
-    type: 'image',
     src: '/20250907_094315.jpg'
   },
   {
     type: 'image',
     src: '/270cced52c08a756fe19.jpg'
+  },
+  {
+    type: 'image',
+    src: '/01c7363a84e70fb956f6.jpg'
   },
   {
     type: 'image',
@@ -366,10 +378,6 @@ export const media = [
   },
   {
     type: 'image',
-    src: '/b4410ea5bc7837266e69.jpg'
-  },
-  {
-    type: 'image',
     src: '/b5a6fe0d4dd0c68e9fc1.jpg'
   },
   {
@@ -391,10 +399,6 @@ export const media = [
   {
     type: 'image',
     src: '/be001dd6ad0b26557f1a.jpg'
-  },
-  {
-    type: 'image',
-    src: '/c006a31240cfcb9192de.jpg'
   },
   {
     type: 'image',
@@ -531,10 +535,6 @@ export const media = [
   {
     type: 'image',
     src: '/Messenger_creation_18E7AAF5-A9C5-4E4D-81B5-65E06746B19A.jpeg'
-  },
-  {
-    type: 'video',
-    src: '/Messenger_creation_1F24CF12-9F3B-492C-ACDD-9629324A441D_1.mp4'
   },
   {
     type: 'image',

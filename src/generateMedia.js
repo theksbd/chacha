@@ -27,7 +27,7 @@ const mediaArray = files
 
     if (!type) return null;
 
-    return { type, src: `./media/${file}` };
+    return { type, src: `../media/${file}` };
   })
   .filter(Boolean);
 

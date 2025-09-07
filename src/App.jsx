@@ -1,6 +1,5 @@
-// src/App.jsx
-import { useState } from 'react';
 import { Dialog } from '@headlessui/react';
+import { useState } from 'react';
 import './App.css';
 import { media } from './media';
 

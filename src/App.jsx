@@ -1,4 +1,5 @@
 import { Dialog } from '@headlessui/react';
+import { Analytics } from '@vercel/analytics/next';
 import { useState } from 'react';
 import './App.css';
 import { media } from './media';
@@ -64,6 +65,7 @@ export default function App() {
           </Dialog.Panel>
         </div>
       </Dialog>
+      <Analytics />
     </div>
   );
 }
